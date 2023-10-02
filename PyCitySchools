@@ -536,7 +536,6 @@ type_summary = pd.DataFrame({
 type_summary
 
 
-# In[ ]:
 
 
 
